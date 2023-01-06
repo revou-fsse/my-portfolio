@@ -1,7 +1,11 @@
-# my-portfolio
+# My Portfolio
 
-> This is an assignment example for My Portfolio Website
+> Assignment Example for My Portfolio
 
-This is the simple personal website of **Abimanyu D.P** made using HTML, CSS, and JavaScript.
+This is a simple personal website of **Abimanyu D.P** made using HTML and CSS.
 
-Link/URL: <https://dhapoer-lp.netlify.app>
+## Links/URLs
+
+- <https://ayobelajarbersama.site>
+- <https://revou-my-portfolio.netlify.app>
+- <https://dhapoer-lp.netlify.app>
